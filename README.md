@@ -1,1 +1,1 @@
-# paper
+# pro-c25-template
